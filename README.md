@@ -2,7 +2,7 @@
 # GitFindr
 
 GitFindr is a tool that allows GitHub users to search each others!
-
+Still Work in Progress so feel free to contribute :)Still Work in Progress so feel free to contribute :)
 
 
 
