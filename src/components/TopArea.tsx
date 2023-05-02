@@ -216,7 +216,7 @@ const ChangeThemeBtn = styled.button`
 `;
 
 const InputArea = styled.form`
-  margin-top: 3.6rem;
+  margin-top: 0.6rem;
   border-radius: 1.5rem;
   background: ${(props) => props.theme.colors.card};
   box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.198567);
