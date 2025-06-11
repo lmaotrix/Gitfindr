@@ -76,7 +76,7 @@ Gitfindr/
 
 
 If you have any feedback, please reach out to us at coco.gian07@gmail.com
-- vmtrix (instagram)
-- Trix 理#1714 (discord)
+- gian.langhans (instagram)
+- lmaotrix (discord)
 - https://gianluca-langhans.netlify.app
 
